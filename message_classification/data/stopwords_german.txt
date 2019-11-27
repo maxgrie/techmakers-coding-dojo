@@ -501,7 +501,6 @@ u
 uhr
 um
 und
-und?
 uns
 unse
 unsem
@@ -527,7 +526,6 @@ vom
 von
 vor
 w
-wahr?
 wann
 war
 waren
